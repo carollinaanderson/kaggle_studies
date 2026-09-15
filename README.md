@@ -1,4 +1,4 @@
-# Kaggle Studies — Full Collection
+# kaggle studies — full collection
 
 > My complete **Kaggle Learn** journey in one repository — micro-course
 > exercises from Python fundamentals to intermediate machine learning.
