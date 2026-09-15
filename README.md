@@ -1,30 +1,32 @@
 # Kaggle Studies — Full Collection
 
-> Collection of my **Kaggle notebooks** and courses, showcasing learning
-> across the data science fundamentals.
+> My complete **Kaggle Learn** journey in one repository — micro-course
+> exercises from Python fundamentals to intermediate machine learning.
+>
+> Each course lives in its own folder under [`docs/`](docs/) for clean,
+> recruiter-friendly navigation. Formerly split across 6 repositories;
+> consolidated here on 2026-09-15.
 
-## Overview
+## Course index
 
-This repository showcases my Kaggle notebooks: micro-course exercises and
-explorations that build from Python basics through machine learning and
-data visualization. Each course lives in its own repo (see below) for
-cleaner, recruiter-friendly navigation.
-
-## Related repositories
-
-- `kaggle_intro_to-python` — Python & Intro to Programming
-- `kaggle_intro_to_machine_learning` — Intro to ML
-- `kaggle_pandas` — Pandas exercises
-- `kaggle_seaborn` — Data visualization
-- `kaggle_intermediate_ml` — Intermediate ML
+| Course | Folder | Skills |
+|---|---|---|
+| Intro to Programming | [`docs/intro-to-programming/`](docs/intro-to-programming/) | Arithmetic, functions, data types, conditions, lists |
+| Intro to Python | [`docs/intro-to-python/`](docs/intro-to-python/) | Syntax, functions, booleans, loops, strings, external libraries |
+| Intro to Machine Learning | [`docs/intro-to-ml/`](docs/intro-to-ml/) | First model, validation, under/overfitting |
+| Pandas | [`docs/pandas/`](docs/pandas/) | Data I/O, indexing, grouping, missing values, combining |
+| Data Visualization (Seaborn) | [`docs/data-viz-seaborn/`](docs/data-viz-seaborn/) | Line/bar/scatter charts, heatmaps, distributions |
+| Intermediate Machine Learning | [`docs/intermediate-ml/`](docs/intermediate-ml/) | Missing values, categoricals, pipelines, XGBoost *(to be populated)* |
 
 ## Tech stack
 
-Python · Pandas · Scikit-Learn · Seaborn · Jupyter
+Python · Pandas · Scikit-Learn · Seaborn · XGBoost · Jupyter Notebooks
 
-## Status
+## What this demonstrates
 
-🟢 Completed micro-course path — maintained as study evidence.
+- Structured, curriculum-driven learning discipline
+- From fundamentals to intermediate ML in one documented path
+- Clean repository organization (each course = one folder)
 
 ## Author
 
